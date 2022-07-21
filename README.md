@@ -1,2 +1,2 @@
-# snake-game
-created using Javascript
+# Snake game
+Created using Javascript
